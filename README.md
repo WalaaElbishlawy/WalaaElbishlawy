@@ -2,7 +2,7 @@
 <h3 align="center">Fresh graduate from FCAI, Cairo University</h3>
 
 
-- 🌱 I’m currently learning *Full Stack Web Development*
+- 🌱 I’m *Backend Developer*
 
 - 📫 How to reach me *walaa.elbishlawy@gmail.com*
 
