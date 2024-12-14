@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walaa Hassan </h1>
-<h3 align="center">Student at FCAI, Cairo University</h3>
+<h3 align="center">Fresh graduate from FCAI, Cairo University</h3>
 
 
 - 🌱 I’m currently learning *Full Stack Web Development*
