@@ -6,6 +6,9 @@
 
 - 📫 How to reach me *walaa.elbishlawy@gmail.com*
 
+- 📄 Know about my experiences [My CV]([https://drive.google.com/file/d/1VfJPdaFUirb1-OyEmUi2rwaFZRWO48oN/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1I2fYN6PUVPDXV6lrP1HcCD0TAAi2bjyE?q=parent:1I2fYN6PUVPDXV6lrP1HcCD0TAAi2bjyE%20type:pdf%20sharedwith:public))
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/walaa-hassan-49514a223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="WalaaElbishlawy/" height="30" width="40" /></a>
