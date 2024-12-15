@@ -6,7 +6,7 @@
 
 - 📫 How to reach me *walaa.elbishlawy@gmail.com*
 
-- 📄 Know about my experiences [My CV]([https://drive.google.com/file/d/1VfJPdaFUirb1-OyEmUi2rwaFZRWO48oN/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1I2fYN6PUVPDXV6lrP1HcCD0TAAi2bjyE?q=parent:1I2fYN6PUVPDXV6lrP1HcCD0TAAi2bjyE%20type:pdf%20sharedwith:public))
+- 📄 Know about my experiences [My CV](https://drive.google.com/drive/u/0/folders/1I2fYN6PUVPDXV6lrP1HcCD0TAAi2bjyE?q=parent:1I2fYN6PUVPDXV6lrP1HcCD0TAAi2bjyE%20type:pdf%20sharedwith:public)
 
 
 <h3 align="left">Connect with me:</h3>
