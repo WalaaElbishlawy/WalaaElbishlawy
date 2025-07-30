@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Walaa Hassan </h1>
-<h3 align="center">Fresh graduate from FCAI, Cairo University</h3>
+<h3 align="center">graduated from FCAI, Cairo University</h3>
 
 
-- 🌱 I’m *Backend Developer*
+- 🌱 I’m *Full Stack .Net Developer*
 
 - 📫 How to reach me *walaa.elbishlawy@gmail.com*
 
